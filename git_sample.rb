@@ -18,3 +18,5 @@ users = ["saitou", "taira", "yamada", "hayashi"]
 users.each do |user|
   puts user
 end
+
+puts "add some text"
